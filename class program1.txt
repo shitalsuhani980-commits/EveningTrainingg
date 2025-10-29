@@ -1,0 +1,15 @@
+import java.util.*;
+class student
+{
+    student()
+	{
+	    System.out.println("i am a constructor zero argument");
+		}
+	}
+	class program1
+	{
+	    public static void main (string[] args)
+		{
+		    student s1=new student();
+	}
+	    }
